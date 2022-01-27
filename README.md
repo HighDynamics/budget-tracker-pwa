@@ -27,3 +27,6 @@ Reach out with additional questions at <HighDynamics@gmail.com>
 ## License
 
 Licensed under [MIT](https://opensource.org/licenses/MIT).
+
+starter code by [Xandromus](https://github.com/Xandromus)  
+forked repo [symmetrical-bassoon](https://github.com/coding-boot-camp/symmetrical-bassoon)
