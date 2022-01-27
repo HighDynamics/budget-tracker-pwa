@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Budget Tracker Screenshot](budget-tracker.png)
+
 ## Description
 
 Track funds online or offline with this progressive web app
